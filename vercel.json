@@ -1,1 +1,1 @@
-{"buildCommand":"cd sovu && npm install && npm run build","outputDirectory":"sovu/dist","installCommand":"npm install --prefix sovu","framework":"vite","cleanUrls":true}
+{"buildCommand":"npm --prefix sovu install && npm --prefix sovu run build","outputDirectory":"sovu/dist","installCommand":"npm --prefix sovu install","framework":"vite","cleanUrls":true}
